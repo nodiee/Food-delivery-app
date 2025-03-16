@@ -1,5 +1,5 @@
 import React from 'react'
-import Navbar from './components/Navbar/Navbar.jsx'
+import Navbar from './components/Navbar/Navbar'
 import Sidebar from './components/Sidebar'
 import { Route, Routes } from 'react-router-dom'
 import Add from './pages/add/add'
